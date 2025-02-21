@@ -13,6 +13,7 @@
     <remove-project name="platform_device_qcom_sepolicy_vndr" />
     <remove-project name="platform/external/angle" />
     <remove-project name="platform/external/drm_hwcomposer" />
+    <remove-project name="android_external_e2fsprogs" />
     <remove-project name="platform/external/erofs-utils" />
     <remove-project name="platform/external/libcxx" />
     <remove-project name="platform/external/libdrm" />
