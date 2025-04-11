@@ -196,6 +196,7 @@
   <project path="vendor/nxp/secure_element_extns" name="android_vendor_nxp_secure_element_extns" groups="nxp" remote="lineage" />
   
   <!-- ASB -->
+  <project path="external/dng_sdk" name="android_external_dng_sdk" groups="pdk" remote="lineage" />
   <project path="external/freetype" name="android_external_freetype" groups="pdk" remote="lineage" />
   <project path="external/skia" name="android_external_skia" groups="pdk,qcom_msm8x26" remote="lineage" />
   <project path="external/sonivox" name="android_external_sonivox" groups="pdk" remote="lineage" />
