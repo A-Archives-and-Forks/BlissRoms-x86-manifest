@@ -27,6 +27,7 @@
   <project path="external/giflib" name="android_external_giflib" groups="pdk,qcom_msm8x26" remote="lineage" />
   <project path="external/gptfdisk" name="android_external_gptfdisk" groups="pdk" remote="lineage" />
   <project path="external/htop" name="android_external_htop" remote="lineage" />
+  <project path="external/icu" name="android_external_icu" remote="lineage" groups="pdk" />
   <project path="external/libncurses" name="android_external_libncurses" remote="lineage" />
   <project path="external/libxml2" name="android_external_libxml2" remote="lineage" />
   <project path="external/mksh" name="android_external_mksh" groups="pdk" remote="lineage" />
@@ -82,6 +83,7 @@
   <project path="system/logging" name="android_system_logging" groups="pdk" remote="lineage" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="lineage" />
   <project path="system/nfc" name="android_system_nfc" remote="lineage" />
+  <project path="system/timezone" name="android_system_timezone" remote="lineage" revision="lineage-19.1" groups="pdk" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="lineage" groups="pdk" clone-depth="1" />
