@@ -43,7 +43,6 @@
   <project path="kernel/x86/common" name="kernel_common" remote="ag-github" sync-s="true" revision="hm/crimson" />
   <project path="kernel/x86/surface" name="android-generic/kernel_common" remote="ghub" sync-s="true" revision="hm/crimson-surface" />
   <project path="external/kernel-drivers" name="external_kernel-drivers" sync-s="true" remote="ag-github" revision="6.6" />
-  <project path="prebuilts/clang/host/linux-x86/clang-r536225" name="vermouth/android_prebuilts_clang_host_linux-x86_clang-r536225" remote="gitlab" revision="14.0" />
 
   <!-- Media HAL & VAAPI drivers -->
   <project path="external/stagefright-plugins" name="external_stagefright-plugins" remote="ag-github" revision="12l-x86" />
