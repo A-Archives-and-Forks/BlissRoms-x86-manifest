@@ -199,9 +199,9 @@
   <project path="vendor/nxp/secure_element_extns" name="android_vendor_nxp_secure_element_extns" groups="nxp" remote="lineage" />
   
   <!-- ASB -->
-  <project path="external/dng_sdk" name="android_external_dng_sdk" groups="pdk" remote="lineage" />
+  <project path="external/dng_sdk" name="android_external_dng_sdk" groups="pdk" remote="lineage" revision="579de8b025cf2493a079056b7cfa71d86aee7be5" />
   <project path="external/freetype" name="android_external_freetype" groups="pdk" remote="lineage" />
-  <project path="external/skia" name="android_external_skia" groups="pdk,qcom_msm8x26" remote="lineage" />
+  <project path="external/skia" name="android_external_skia" groups="pdk,qcom_msm8x26" remote="lineage" revision="0c6131331e0638a8f7ae26da7acbf1e93ddf45c0" />
   <project path="external/sonivox" name="android_external_sonivox" groups="pdk" remote="lineage" />
   <project path="packages/apps/Car/Settings" name="android_packages_apps_Car_Settings" groups="pdk-fs" remote="lineage" />
   <project path="packages/apps/Traceur" name="android_packages_apps_Traceur" groups="pdk-fs" remote="lineage" />
